@@ -1030,3 +1030,4 @@
      new go_corkis_prison();
 +    new go_warmaul_prison();
  }
+
